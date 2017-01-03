@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<integer>4118</integer>
+		<string>Toronto</string>
+		<string>Canada</string>
+		<real>43.64856</real>
+		<real>-79.385368</real>
+	</array>
+	<array>
+		<integer>44418</integer>
+		<string>London</string>
+		<string>United Kingdom</string>
+		<real>51.507702</real>
+		<real>-0.12797</real>
+	</array>
+	<array>
+        <integer>1132599</integer>
+        <string>Seoul</string>
+        <string>South Korea</string>
+        <real>37.557121</real>
+        <real>126.977379</real>
+    </array>
+</array>
+</plist>

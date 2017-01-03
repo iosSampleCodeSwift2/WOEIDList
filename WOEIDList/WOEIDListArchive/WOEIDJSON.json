@@ -1,0 +1,37 @@
+[
+ {
+   "Code" : 4118,
+   "City" : "Toronto",
+   "Country" : "Canada",
+   "Latitude" : 43.64856,
+   "Longitude" : -79.385368
+ },
+ {
+ "Code" : 44418,
+ "City" : "London",
+ "Country" : "United Kingdom",
+ "Latitude" : 51.507702,
+ "Longitude" : -0.12797
+ },
+ {
+   "Code" : 2487956,
+   "City" : "San Francisco",
+   "Country" : "United States",
+   "Latitude" : 37.747398,
+   "Longitude" : -122.439217
+ },
+ {
+   "Code" : 1132599,
+   "City" : "Seoul",
+   "Country" : "South Korea",
+   "Latitude" : 37.557121,
+   "Longitude" : 126.977379
+ },
+ {
+   "Code" : 718345,
+   "City" : "Milan",
+   "Country" : "Italy",
+   "Latitude" : 45.4781,
+   "Longitude" : 9.17789
+  }
+]
